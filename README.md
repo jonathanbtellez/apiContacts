@@ -1,3 +1,14 @@
+# How to use
+1. Do a fork or clone of the proyect
+2. Create a databse connection
+3. In .env file change the data relatinated to database for you database connection
+4. Run the migration in the project
+5. Run
+ `php artisan serve`
+ 6. Use the api in your projects
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
